@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @may-33
+- 👋 Hi, I’m @dev33may
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning with Scrimba
 - 📫 How to reach me at X @may33dev
